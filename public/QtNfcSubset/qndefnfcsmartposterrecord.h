@@ -1,3 +1,9 @@
+/*!
+ * @copyright
+ * Copyright Research In Motion Limited, 2012-2012
+ * Research In Motion Limited. All rights reserved.
+ */
+
 #ifndef QNDEFNFCSMARTPOSTERRECORD_H
 #define QNDEFNFCSMARTPOSTERRECORD_H
 

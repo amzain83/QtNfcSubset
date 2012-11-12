@@ -1,3 +1,9 @@
+/*!
+ * @copyright
+ * Copyright Research In Motion Limited, 2012-2012
+ * Research In Motion Limited. All rights reserved.
+ */
+
 #ifndef NFC_NDEF_GLOBAL_H
 #define NFC_NDEF_GLOBAL_H
 

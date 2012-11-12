@@ -1,3 +1,9 @@
+/*!
+ * @copyright
+ * Copyright Research In Motion Limited, 2012-2012
+ * Research In Motion Limited. All rights reserved.
+ */
+
 #include "qndefnfcsmartposterrecord.h"
 #include "qndefnfcsmartposterrecord_p.h"
 #include "qndefmessage.h"
